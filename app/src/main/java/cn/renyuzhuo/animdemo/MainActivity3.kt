@@ -24,6 +24,10 @@ class MainActivity3 : AppCompatActivity() {
             R.anim.z_slide_in_from_right_new,
             R.anim.z_slide_out_to_left_new
         )
+//        overridePendingTransition(
+//            2130772021,
+//            2130772021
+//        )
     }
 
 }
